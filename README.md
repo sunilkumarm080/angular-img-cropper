@@ -1,5 +1,5 @@
 
-# ng2-img-cropper
+# lucida-img-cropper
 
 This is an adapatation of Angular 1 image cropper from: https://github.com/AllanBishop/angular-img-cropper
 An image cropping tool for AngularJS. Features a rectangular crop area. The crop area's aspect ratio can be enforced during dragging.
@@ -8,7 +8,7 @@ The crop image can either be 1:1 or scaled to fit an area.
 ## Install from NPM
 
 ```
-    npm i ng2-img-cropper --save
+    npm i lucida-img-cropper --save
 ```
 
 ## Screenshot
